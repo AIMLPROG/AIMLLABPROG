@@ -1,4 +1,4 @@
-Kmeans:
+#Kmeans:
 import matplotlib.pyplot as plt
 from sklearn import datasets
 from sklearn.cluster import KMeans
@@ -30,7 +30,7 @@ plt.ylabel('Petal Width')
 
 
 
-Gaussian
+#Gaussian
 from sklearn import preprocessing
 # transform your data such that its distribution will have a
 # mean value 0 and standard deviation of 1.
